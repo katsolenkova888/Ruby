@@ -1,0 +1,2 @@
+module KvadratHelper
+end
